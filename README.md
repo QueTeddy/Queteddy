@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Teddy</h1>
 <h3 align="center">A Cloud and Data Engineer</h3>
 
-- 🌱 I’m currently learning more about **Cloud and Go**
+- 🌱 I’m currently learning more about **Distributed Systems**
 
 - 📫 How to reach me **queteddyjr@gmail.com**
 
